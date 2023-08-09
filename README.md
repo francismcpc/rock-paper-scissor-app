@@ -8,14 +8,23 @@ Dynamic Result Display: The game announces the winner (player or computer) based
 Random Computer Choice: The computer's choice is randomly generated, simulating a fair gameplay experience.
 Easy Setup: The code is designed to be easily integrated and customized for use in different projects.
 Responsive Design: The UI is responsive and adapts to different screen sizes.
+
 # Technologies Used
 HTML, CSS, JavaScript: The game is built using these fundamental web technologies to create an interactive experience.
 Event Handling: JavaScript is used to capture user interactions and update the game state accordingly.
 DOM Manipulation: The Document Object Model (DOM) is dynamically updated to reflect player choices and game results.
 Image Loading: Images are loaded in real time and are displayed as player and computer choices.
+
 # How to Use
 Clone the repository to your local machine using git clone.
 Open the index.html file in a web browser to play the game.
 Click on the buttons to choose rock, paper, or scissors.
 See the results of the game and play as many rounds as you like.
 Feel free to customize the game's appearance, rules, and logic according to your preferences.
+
+# Screenshots
+![ss](https://github.com/francismcpc/rock-paper-scissor-app/assets/119109562/9d09daaf-c7d7-4bb8-abd5-adb512163fa5)
+
+# Acknowledgements
+Icon images provided by Iconify at figma
+
