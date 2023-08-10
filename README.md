@@ -9,6 +9,9 @@ This repository contains a simple web-based implementation of the classic Rock-P
 - Easy Setup: The code is designed to be easily integrated and customized for use in different projects.
 - Responsive Design: The UI is responsive and adapts to different screen sizes.
 
+## Demo
+Check out the live demo of the Project [here](https://rock-paper-scissor-app-five.vercel.app/).
+
 ## Technologies Used
 - HTML, CSS, JavaScript: The game is built using these fundamental web technologies to create an interactive experience.
 - Event Handling: JavaScript is used to capture user interactions and update the game state accordingly.
